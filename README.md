@@ -1,7 +1,7 @@
 FL-Autoplaceholder
 ====================================
 
-Library auto set attribute **placeholder** for element **input**
+Library auto set attribute **placeholder** for element **Form**
 
 Getting started
 ----------
