@@ -1,6 +1,7 @@
 FL-Library-Autoplaceholder
 ====================================
 
+Library สร้าง Attribute **placeholder** อัตโนมัติ สำหรับ element **input** โดยนำ text จาก label เป็นค่า value ของ **placeholder**
 ### ตัวอย่าง
 **using**
 ```html
