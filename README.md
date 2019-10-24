@@ -10,10 +10,8 @@ FL-Library-Autoplaceholder
 **html**
 ```html
  <form id="form">
-  <div>
     <label for="first_name">ชื่อ</label>
     <input type="text" name="first_name" id="first_name"/>
-  </div>
  </form>
 ```
 **js**
