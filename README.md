@@ -11,9 +11,9 @@ FL-Library-Autoplaceholder
 ```html
  <form id="form">
     <label for="first_name">ชื่อ</label>
-    <input type="text" name="first_name" id="first_name"/>
+    <input type="text" name="first_name" />
     <label for="last_name">นามสกุล</label>
-    <input type="text" name="last_name" id="last_name"/>
+    <input type="text" name="last_name" />
  </form>
 ```
 **js**
