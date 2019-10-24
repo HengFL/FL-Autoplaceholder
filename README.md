@@ -1,4 +1,4 @@
-Welcome to FL-Library-Autoplaceholder
+FL-Library-Autoplaceholder
 ====================================
 
 ### ตัวอย่าง
