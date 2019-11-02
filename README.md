@@ -1,4 +1,4 @@
-FL-Autoplaceholder
+FL Autoplaceholder
 ====================================
 
 Library auto set attribute **placeholder** for element **form**
